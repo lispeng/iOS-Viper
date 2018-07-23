@@ -1,0 +1,6 @@
+framework module SPViper {
+  umbrella header "SPViper.h"
+
+  export *
+  module * { export * }
+}

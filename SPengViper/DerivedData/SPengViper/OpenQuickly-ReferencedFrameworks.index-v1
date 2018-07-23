@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>YYKit</string>
+	<string>MapKit</string>
+	<string>CoreData</string>
+	<string>Foundation</string>
+	<string>CoreGraphics</string>
+	<string>Accelerate</string>
+	<string>mach</string>
+	<string>QuartzCore</string>
+	<string>Security</string>
+	<string>libkern</string>
+	<string>CoreText</string>
+	<string>webp</string>
+	<string>sys</string>
+	<string>UIKit</string>
+	<string>netinet</string>
+	<string>SPViper</string>
+	<string>SystemConfiguration</string>
+	<string>XCTest</string>
+	<string>MobileCoreServices</string>
+	<string>AssetsLibrary</string>
+	<string>CoreFoundation</string>
+	<string>ImageIO</string>
+	<string>CoreTelephony</string>
+	<string>objc</string>
+</array>
+</plist>

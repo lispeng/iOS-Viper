@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  SPengViper
+//
+//  Created by lisipeng on 2018/5/14.
+//  Copyright © 2018年 px. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define SCREEN_WIDTH  [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT  [UIScreen mainScreen].bounds.size.height
+//统一的灰色背景颜色
+#define BackColor [UIColor colorWithRed:243 / 255.0 green:243 / 255.0 blue:243 / 255.0 alpha:1.0]
+
+#import "NSString+Extension.h"
+#import "MJExtension.h"
+#import "UIColor+ColorChange.h"
+#import "UIView+LSPExtension.h"
+#import <YYKit.h>
+
+
+#endif /* PrefixHeader_pch */

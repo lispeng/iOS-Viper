@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/px/Desktop/TempApp/SPengViper/Build/Products/Debug-iphoneos/SPViper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SPViper-Swift.h",
+          'external-contents': "/Users/px/Desktop/TempApp/SPengViper/Build/Products/Debug-iphoneos/SPViper.framework/Headers/SPViper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SPViper.h",
+          'external-contents': "/Users/px/Desktop/TempApp/SPengViper/SPViper/SPViper/SPViper.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/px/Desktop/TempApp/SPengViper/Build/Products/Debug-iphoneos/SPViper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/px/Desktop/TempApp/SPengViper/Build/Intermediates.noindex/SPViper.build/Debug-iphoneos/SPViper.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

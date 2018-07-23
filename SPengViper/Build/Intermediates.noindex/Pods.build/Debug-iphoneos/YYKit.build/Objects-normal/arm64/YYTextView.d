@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/YYTextView.m \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/Target\ Support\ Files/YYKit/YYKit-prefix.pch \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/YYTextView.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/String/YYTextParser.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextLayout.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextDebugOption.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextLine.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/String/YYTextAttribute.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextInput.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Base/YYKitMacro.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextContainerView.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextSelectionView.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextMagnifier.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextEffectWindow.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/Component/YYTextKeyboardManager.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/String/YYTextUtilities.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Base/Quartz/YYCGUtilities.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Utility/YYTransaction.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Utility/YYWeakProxy.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Base/UIKit/UIView+YYAdd.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/String/NSAttributedString+YYText.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/String/YYTextRubyAnnotation.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Text/String/UIPasteboard+YYText.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Base/UIKit/UIDevice+YYAdd.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Base/UIKit/UIApplication+YYAdd.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Image/YYImage.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Image/YYAnimatedImageView.h \
+  /Users/px/Desktop/TempApp/SPengViper/Pods/YYKit/YYKit/Image/YYImageCoder.h
